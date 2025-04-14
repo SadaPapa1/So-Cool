@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&display=swap');
+
+
+body {
+	background-color: beige; 
+	font-family: 'Edu AU VIC WA NT Arrows', cursive;
+}
+a {
+    color: aquamarine;
+	text-decoration: none;
+
+}
+a:hover {
+	text-decoration: underline;
+
+}
+a:active {
+	color: pink;
+}
+h1 {
+	color: fuchsia;
+}
+
+.foto {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+.infa {
+    color: darkgray;
+	margin: 0;
+	font-style: italic;
+}
+.refki {
+	background: #b9b0b3;
+	width: 20%;
+}
+.cotnik{
+	width: 100%;
+
+}
