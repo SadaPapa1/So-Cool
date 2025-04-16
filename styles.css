@@ -1,14 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&display=swap');
-
-
 body {
 	background-color: beige; 
 	font-family: 'Edu AU VIC WA NT Arrows', cursive;
 }
 a {
-    color: aquamarine;
 	text-decoration: none;
-
 }
 a:hover {
 	text-decoration: underline;
@@ -27,15 +22,72 @@ h1 {
 	border-radius: 50%;
 }
 .infa {
-    color: darkgray;
 	margin: 0;
 	font-style: italic;
+	display: flex;
+}
+.infa li{
+	margin-left: 30px;
+	margin-bottom: 5px;
 }
 .refki {
-	background: #b9b0b3;
 	width: 20%;
 }
 .cotnik{
 	width: 100%;
 
+}
+.card{
+	padding: 20px 20px 20px 10px;
+	margin-bottom: 25px;
+	border-radius: 18px;
+	width:  50%;
+}
+.cotnik{
+	margin-left: 26%;
+}
+.bg-aqua{
+	background-color: #04d1b9;
+}
+.bg-purple{
+	background-color: #cb4154;
+}
+.bg-pink{
+	background-color: #ff8ab1;
+}
+.card h2{
+	margin-bottom: 5px;
+}
+.newinf{
+	margin-bottom: 50px;
+	margin-left: 40;
+}
+.exala{
+	margin-left: 80px;
+}
+td {
+	font: italic;
+}
+th {
+	font: italic;
+	color: red;
+}
+.card h2{
+	color: #dbd7d2;
+}
+.refki p{
+	color: beige;
+}
+.flexik{
+	display: flex;
+
+}
+.table1{
+	margin-right: 8px;
+}
+.table2{
+	margin-right: 8px;
+}
+.table3{
+	margin-right: 8px;
 }
