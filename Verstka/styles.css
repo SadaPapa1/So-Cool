@@ -112,4 +112,13 @@ hr {
 .podval p {
   display: flex;
   justify-content: center;
+}
+
+cena {
+  color: aquamarine;
+  font-size: medium;
+}
+
+tovar {
+  font-size: large;
 }/*# sourceMappingURL=styles.css.map */
