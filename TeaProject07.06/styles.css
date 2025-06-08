@@ -1,0 +1,458 @@
+.container{
+	justify-content: center;
+	max-height: 4514px;
+	max-width: 1599px;
+	margin-left: 167px;
+}
+.nav{
+font-family: Open Sans;
+font-weight: 400;
+font-size: 18px;
+line-height: 100%;
+letter-spacing: 0%;
+justify-content: center;
+display: flex;
+width: 1200px;
+height: 142px;
+top: 30px;
+margin-left: 170px;
+}
+.navtext{
+	justify-content: center;
+	display: flex;
+}
+.header{
+	background-image: url('TeaLuxe IMG/back.jpg');
+	width: 1599px;
+	height: 500px;
+	top: 200px;
+}
+.header h1{
+	font-family: Cormorant;
+font-weight: 400;
+font-size: 60px;
+line-height: 100%;
+letter-spacing: 0%;
+color: azure;
+}
+.header h3{
+	font-family: Cormorant;
+font-weight: 400;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+color: azure;
+}
+.wtftext {
+	font-family: Cormorant;
+font-weight: 300;
+font-style: italic;
+font-size: 40px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+}
+.teablock__glav{
+	font-family: Cormorant;
+font-weight: 400;
+font-size: 40px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.teablock h3{
+	font-family: Cormorant;
+font-weight: 400;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.podchaem__glav{
+	font-family: Cormorant;
+font-weight: 400;
+font-size: 40px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.textpodchaem h5{
+	font-family: Open Sans;
+font-weight: 300;
+font-style: italic;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.textnadblog{
+	font-family: Cormorant;
+font-weight: 400;
+font-size: 40px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.teablog h3 {
+	font-family: Cormorant;
+font-weight: 400;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.teablog h4{
+	font-family: Open Sans;
+font-weight: 300;
+font-size: 13px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.teablog button{
+	font-family: Open Sans;
+font-weight: 300;
+font-size: 13px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.linktext h2{
+	font-family: Cormorant;
+font-weight: 400;
+font-size: 40px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.linktext h4{
+	font-family: Open Sans;
+font-weight: 300;
+font-size: 20px;
+line-height: 150%;
+letter-spacing: 0%;
+}
+.linktext h5{
+	font-family: Open Sans;
+font-weight: 300;
+font-size: 13px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.usedwe__glav{
+	font-family: Cormorant;
+font-weight: 400;
+font-size: 40px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.usedwe h3{
+	font-family: Open Sans;
+font-weight: 300;
+font-size: 30px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.usedwe h4{
+	font-family: Open Sans;
+font-weight: 600;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.footer__one h2{
+	font-family: Cormorant;
+font-weight: 400;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.footer__one h4{
+	font-family: Open Sans;
+font-weight: 300;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.footer__two h2{
+	font-family: Cormorant;
+font-weight: 400;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.footer__two h4{
+	font-family: Open Sans;
+font-weight: 300;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.footer__glav--three{
+	font-family: Open Sans;
+font-weight: 300;
+font-style: italic;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.footer__text--three{
+	font-family: Open Sans;
+font-weight: 300;
+font-size: 12px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.footer__glav--four{
+	font-family: Cormorant;
+font-weight: 400;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.footer__text--four-pizda{
+	font-family: Open Sans;
+font-weight: 300;
+font-size: 13px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+
+.navtext__one{
+	margin-right: 70px;
+	margin-top:50px;
+	margin-left: 130px;
+}
+.navtext__two{
+	margin-right: 70px;
+	margin-top: 50px;
+}
+.navtext__three{
+	margin-right: 70px;
+	margin-top: 50px;
+}
+.navtext__four{
+	margin-right: 70px;
+	margin-top: 50px;
+}
+.navtext__five{
+	margin-top: 50px;
+	margin-right: 70px;
+}
+logo{
+	display: flex;
+	margin-top: 10px;
+}
+.shop_account{
+display: flex;
+gap: 15px;
+}
+.search{
+	margin-left: 100px;
+}
+.header__text{
+	padding-top: 280px;
+	margin-left: 140px;
+	width: 790px;
+}
+.wtftext{
+	display: flex;
+	justify-content: center;
+	padding-top: 150px;
+}
+.wtftext p{
+	margin-left: 14px;
+}
+.teablock__glav{
+display: flex;
+justify-content: center;
+padding-top: 130px;
+}
+.teablock{
+	display: flex;
+	justify-content: center;
+	margin-left: 105px;
+}
+.greentea{
+	margin-right: 80px;
+padding-top: 40px;
+}
+.whitetea{
+	margin-right: 80px;
+padding-top: 40px;
+}
+.oolongtea{
+	margin-right: 80px;
+padding-top: 40px;
+}
+.pu-erhtea{
+	margin-right: 80px;
+padding-top: 40px;
+}
+.blacktea{
+	margin-right: 80px;
+	padding-top: 40px;
+}
+.teablock h3{
+	padding-left: 71px;
+}
+.podchaem__glav{
+	display: flex;
+	justify-content: center;
+	padding-top: 200px;
+}
+.textpodchaem{
+	display: flex;
+	justify-content: center;
+	padding-top: 65px;
+	width: 1200px;
+	margin-left: 200px;
+	gap: 26px;
+}
+.teablog{
+	display: grid;
+	justify-content: center;
+	grid-template-columns: 1fr 1fr;
+	margin-left: 200px;
+    gap: 20px;
+	padding-top: 200px;
+	}
+	.teablog__one{
+		display:flex;
+	}
+	.teablog__one img{
+		padding-right: 25px;
+	}
+	.teablog__two{
+		display:flex;
+	}
+	.teablog__two img{
+		padding-right: 25px;
+	}
+	.teablog__three{
+		display:flex;
+	}
+	.teablog__three img{
+		padding-right: 25px;
+	}
+	.teablog__four{
+		display:flex;
+	}
+	.teablog__four img{
+		padding-right: 25px;
+	}
+	.teablog h3{
+		padding-bottom: 20px;
+	}
+	.teablog h4{
+		padding-bottom: 60px;
+	}
+	.textnadblog{
+		display: flex;
+		justify-content: center;
+		padding-top: 150px;
+		margin-bottom: -140px;
+	}
+	.podblogom{
+	margin-top: 40px;
+	margin-left: 740px;
+}
+.link{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	margin-top: 150px;
+}
+.linktext h2{
+margin-bottom: 30px;
+margin-left: 300px;
+}
+.linktext h4{
+margin-left: 300px;
+}
+.huita button{
+	margin-left: 100px;
+	margin-top: 55px;
+}
+.usedwe__glav{
+	display: flex;
+	justify-content: center;
+	margin-top: 150px;
+	margin-left: 60px;
+	margin-bottom: 30px;
+}
+.usedwe{
+	display: flex;
+	justify-content: center;
+	margin-left: 150px;
+	
+}
+.usedwe__one{
+	margin-right:100px;
+}
+.usedwe__one h4{
+margin-left: 25px;
+}
+.usedwe__two{
+	margin-right:100px;
+}
+.usedwe__two h4{
+margin-left: 25px;
+}
+.usedwe__three{
+	margin-right:100px;
+}
+.usedwe__four{
+	margin-right: 100px;
+}
+.usedwe img{
+margin-left: 83px;
+}
+.usedwe h3{
+	margin-left: 30px;
+}
+.footer{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	margin-top: 250px;
+}
+.footer__text--one h4{
+	margin-top: 20px;
+}
+.footer__text--two h4{
+	margin-top: 20px;
+}
+.footer__text--three{
+	margin-top: 40px;
+}
+.footer__glav--one h2{
+	margin-bottom: 50px;
+}
+.footer__glav--two h2{
+	margin-bottom: 50px;
+}
+.footer__glav--three{
+	margin-top: 75px;
+}
+.footer__text--four-pizda{
+	margin-top: 45px;
+}
+.emailphone__glav{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.emailphone{
+	display: grid;
+	grid-template-columns: 1fr;
+	margin-left: -120px;
+	margin-top: 20px;
+}
+.emailphone img{
+	width: 25px;
+	height: 25px;
+}
+.sberitd{
+	display: flex;
+	margin-top: 70px;
+	margin-bottom: 30px;
+}
+.sberitd h5{
+	margin-right: 300px;
+}
+.imgframe{
+	margin-top: 15px;
+	margin-left: 87px;
+}
+button{
+	border: 0;
+}
